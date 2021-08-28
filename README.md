@@ -5,17 +5,18 @@
  ## APP 列表
  目前的APP
  ```
- .
 |-- Communication
 |   `-- qqlite_2.1.3.apk
 |-- Entertainment
-|   `-- netease_cloudmusic_2.9.10.apk
-|-- LICENSE
-|-- README.md
+|   |-- netease_cloudmusic_2.9.10.apk
+|   `-- qqmusicwatch_1.1.0.4.apk
 |-- Tools
+|   |-- accuweather_7.0.21.apk
 |   |-- alipayGphone_10.3.1.1909061.apk
 |   |-- gms_21.31.12.apk
+|   |-- googleGboard_1.0.1.apk
 |   |-- google_fitness_2.13.32-230.apk
+|   |-- moji_weather_1.0.5.apk
 |   `-- todoist_v8433.apk
 `-- WatchFaces
     |-- ustwo.watchfaces.moods_1.17.0.apk
